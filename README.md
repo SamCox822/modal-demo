@@ -19,5 +19,5 @@ and
 `python simple_example/simple_example.py`
 
 ### Running with Modal:
-`modal run scraping_example/scrape_modal.py`
+`modal run scraping_example/scrape_modal.py` and
 `modal run simple_example/simple_example_modal.py`
